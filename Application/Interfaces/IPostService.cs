@@ -14,5 +14,6 @@ namespace Application.Interfaces
         bool Delete(string id);
         PostDTO Get(string id);
         List<PostDTO> GetAll();
+        bool Update(string id, UpdatePostDTO request);
     }
 }

@@ -25,6 +25,7 @@ namespace Application.Services
                 Id = ObjectId.GenerateNewId(),
                 Title = request.Title,
                 Content = request.Content,
+                ImageUrl = request.ImageUrl,
                 CreatedAt = DateTime.Now,
                 UpdatedAt = DateTime.Now,
                 AuthorId = 0
@@ -33,7 +34,29 @@ namespace Application.Services
             _repository.AddAsync(newPost).Wait();
             return true;
         }
+        public List<PostDTO> GetAll()
+        {
+            var data = _repository.GetAllAsync().Result;
 
+            var response = new List<PostDTO>();
+
+
+            foreach (var item in data)
+            {
+                response.Add(new PostDTO
+                {
+                    Id = item.Id.ToString(),
+                    Title = item.Title,
+                    Content = item.Content,
+                    ImageUrl = item.ImageUrl,
+                    CreatedAt = item.CreatedAt,
+                    UpdatedAt = item.UpdatedAt,
+                    AuthorId = item.AuthorId,
+                });
+            }
+
+            return response;
+        }
         public PostDTO? Get(string id)
         {
             var data = _repository.GetByIdAsync(id).Result;
@@ -46,36 +69,14 @@ namespace Application.Services
                 Id = data.Id.ToString(),
                 Title = data.Title,
                 Content = data.Content,
+                ImageUrl = data.ImageUrl,
                 CreatedAt = data.UpdatedAt,
                 UpdatedAt = data.UpdatedAt,
                 AuthorId = data.AuthorId,
             };
 
             return response;
-        }
-
-        public List<PostDTO> GetAll()
-        {
-            var data = _repository.GetAllAsync().Result;
-
-            var response = new List<PostDTO>();
-
-
-            foreach (var item in data)
-            {
-                response.Add(new PostDTO
-                {
-                    Id= item.Id.ToString(),
-                    Title = item.Title,
-                    Content = item.Content,
-                    CreatedAt = item.CreatedAt,
-                    UpdatedAt = item.UpdatedAt,
-                    AuthorId = item.AuthorId,
-                });
-            }
-
-            return response;
-        }
+        }        
         public bool Delete(string id)
         {
             var data = _repository.GetByIdAsync(id).Result;
@@ -96,6 +97,7 @@ namespace Application.Services
 
             data.Title = request.Title;
             data.Content = request.Content;
+            data.ImageUrl = request.ImageUrl;
             data.UpdatedAt = DateTime.Now;
 
             _repository.UpdateAsync(id, data).Wait();

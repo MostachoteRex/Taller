@@ -41,8 +41,10 @@ namespace Backend.Controllers
         }
 
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public IActionResult Put(string id, [FromBody] UpdatePostDTO request)
         {
+            var response = _postService.Update(id, request);
+            return Ok(response);
         }
 
         [HttpDelete("{id}")]

@@ -1,4 +1,5 @@
 ﻿using Application.DTOs.Post;
+using Application.DTOs.User;
 using Application.Interfaces;
 using Infraestructure.Data.Models;
 using Infraestructure.Data.Repositories.Interfaces;
@@ -87,7 +88,7 @@ namespace Application.Services
             _repository.DeleteAsync(id).Wait();
             return true;
         }
-        public bool Update(string id, UpdatePostDTO request)
+        public bool Update(string id, UpdateUserDTO request)
         {
 
             var data = _repository.GetByIdAsync(id).Result;

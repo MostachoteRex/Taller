@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisa\\source\\repos\\Taller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\dtos\\post\\updatepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\dtos\\post\\updatepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\dtos\\post\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\dtos\\post\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\dtos\\post\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\dtos\\post\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D1B316-9CA3-4920-8F31-5999351C133F}|Backend\\Backend.csproj|c:\\users\\luisa\\source\\repos\\taller\\backend\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D1B316-9CA3-4920-8F31-5999351C133F}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\taller\\application\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|c:\\users\\luisa\\source\\repos\\taller\\infraestructure\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|c:\\users\\luisa\\source\\repos\\taller\\infraestructure\\data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D1B316-9CA3-4920-8F31-5999351C133F}|Backend\\Backend.csproj|c:\\users\\luisa\\source\\repos\\taller\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3D1B316-9CA3-4920-8F31-5999351C133F}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\User\\UserDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\User\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:38:14.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\User\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\User\\CreateUserDTO.cs*",
+              "RelativeToolTip": "Application\\DTOs\\User\\CreateUserDTO.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:37:54.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\User\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\User\\UpdateUserDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\User\\UpdateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:37:18.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IService.cs",
+              "ViewState": "AQIAAAYAAABgZmZmZmYkwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:12:33.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Infraestructure\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Infraestructure\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\Models\\User.cs",
+              "ViewState": "AQIAABgAAABAMzMzMzMrwCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:31:06.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Infraestructure\\Data\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Infraestructure\\Data\\Models\\Post.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\Models\\Post.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:07:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPostService.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPostService.cs",
+              "ViewState": "AQIAAAcAAABgZmZmZmYkwA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:53:07.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\Post\\CreatePostDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Post\\CreatePostDTO.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\Post\\CreatePostDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Post\\CreatePostDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:50:52.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdatePostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\Post\\UpdatePostDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Post\\UpdatePostDTO.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\Post\\UpdatePostDTO.cs*",
+              "RelativeToolTip": "Application\\DTOs\\Post\\UpdatePostDTO.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:50:49.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\Post\\PostDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Post\\PostDTO.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\DTOs\\Post\\PostDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Post\\PostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:50:45.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Application\\Services\\PostService.cs",
+              "RelativeToolTip": "Application\\Services\\PostService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:44:56.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Backend\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Backend\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAASwC4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:40:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Backend",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Taller\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Taller\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T13:36:35.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

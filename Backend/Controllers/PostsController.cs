@@ -1,5 +1,6 @@
 ﻿using Amazon.Runtime.Internal;
 using Application.DTOs.Post;
+using Application.DTOs.User;
 using Application.Interfaces;
 using Infraestructure.Data.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -41,7 +42,7 @@ namespace Backend.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(string id, [FromBody] UpdatePostDTO request)
+        public IActionResult Put(string id, [FromBody] UpdateUserDTO request)
         {
             var response = _postService.Update(id, request);
             return Ok(response);
